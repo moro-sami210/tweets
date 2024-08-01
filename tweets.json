@@ -1,0 +1,319 @@
+[
+  {
+    "category": "Wes Bos Style",
+    "text": "Good developers write code; great developers refactor it."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "The best debugger? Console.log. The second best? Rubber duck."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Learn one thing deeply, and you'll be able to learn anything else more easily."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Your future self will thank you for writing clear, commented code today."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Chasing the latest tech trends is fun, but mastering the fundamentals is essential."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Automate the boring stuff—your future projects will thank you."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Reading code is just as important as writing it. Dive into open source."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "A well-named variable is worth a thousand comments."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Start with a plan, but don’t be afraid to refactor."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Every bug is a chance to learn something new."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Coding is 90% thinking and 10% typing."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "The best projects start with a solid folder structure."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Version control: because undo can only take you so far."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Your code should be as readable as your morning newspaper."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Keep your dependencies up to date—future you will thank you."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Whitespace isn't just for aesthetics—it's for readability."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Code is like humor. When you have to explain it, it's bad."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Consistent code style isn’t just nice—it’s necessary."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Remember: shortcuts make code easier to write, not necessarily easier to read."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Always have a backup of your backup. Paranoia pays off."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "A little bit of testing can prevent a lot of debugging."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Don’t fear the command line—embrace it."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Measure twice, cut once. The same goes for refactoring."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Writing code is great, but don’t forget to write documentation too."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Commenting on your code is like leaving a note for future developers."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "If you’re not learning something new every day, you’re not pushing hard enough."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Don’t reinvent the wheel, unless you’re just curious."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Coding is like a craft—the more you practice, the better you get."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Complexity kills productivity. Keep it simple."
+  },
+  {
+    "category": "Wes Bos Style",
+    "text": "Every line of code should tell a story, and the ending should be clear."
+  },
+  {
+    "category": "System Design",
+    "text": "Great system design is about balancing trade-offs, not perfection."
+  },
+  {
+    "category": "System Design",
+    "text": "Design for scale from day one, but don't over-engineer."
+  },
+  {
+    "category": "System Design",
+    "text": "Simplicity in design is harder to achieve, but always worth it."
+  },
+  {
+    "category": "System Design",
+    "text": "Every system has bottlenecks—your job is to identify and manage them."
+  },
+  {
+    "category": "System Design",
+    "text": "Think about failure modes before they happen, not after."
+  },
+  {
+    "category": "System Design",
+    "text": "Load balancing is the key to handling high traffic with grace."
+  },
+  {
+    "category": "System Design",
+    "text": "Caching: because not everything needs to be fetched every time."
+  },
+  {
+    "category": "System Design",
+    "text": "Redundancy is your insurance against unexpected downtime."
+  },
+  {
+    "category": "System Design",
+    "text": "Stateless systems are easier to scale, but harder to manage."
+  },
+  {
+    "category": "System Design",
+    "text": "Microservices: Divide and conquer your system’s complexity."
+  },
+  {
+    "category": "System Design",
+    "text": "APIs should be designed with both simplicity and future-proofing in mind."
+  },
+  {
+    "category": "System Design",
+    "text": "Design for failure; build for resilience."
+  },
+  {
+    "category": "System Design",
+    "text": "Your system is only as strong as its weakest point."
+  },
+  {
+    "category": "System Design",
+    "text": "Data consistency vs. availability—know when to choose one over the other."
+  },
+  {
+    "category": "System Design",
+    "text": "In system design, less is often more."
+  },
+  {
+    "category": "System Design",
+    "text": "Plan for data growth from the start—your future self will thank you."
+  },
+  {
+    "category": "System Design",
+    "text": "Horizontal scaling beats vertical scaling when in doubt."
+  },
+  {
+    "category": "System Design",
+    "text": "Monitoring and observability are essential, not optional."
+  },
+  {
+    "category": "System Design",
+    "text": "A well-designed system handles edge cases gracefully."
+  },
+  {
+    "category": "System Design",
+    "text": "Choose the right database for the job—SQL isn’t always the answer."
+  },
+  {
+    "category": "System Design",
+    "text": "Security should be baked into your system design, not added later."
+  },
+  {
+    "category": "System Design",
+    "text": "Design with clear SLAs in mind—your users will appreciate it."
+  },
+  {
+    "category": "System Design",
+    "text": "Every system has trade-offs; understand them before making decisions."
+  },
+  {
+    "category": "System Design",
+    "text": "Latency kills user experience; optimize for speed."
+  },
+  {
+    "category": "System Design",
+    "text": "Keep data close to where it’s needed—geographic distribution matters."
+  },
+  {
+    "category": "System Design",
+    "text": "Design for maintainability; your codebase will outlast you."
+  },
+  {
+    "category": "System Design",
+    "text": "A good system design anticipates change and accommodates it."
+  },
+  {
+    "category": "System Design",
+    "text": "Data integrity is non-negotiable—design with this in mind."
+  },
+  {
+    "category": "System Design",
+    "text": "High availability is expensive, but downtime costs more."
+  },
+  {
+    "category": "Android",
+    "text": "The next generation is here. Welcome to Android 12. 🌈 #Android12"
+  },
+  {
+    "category": "Android",
+    "text": "Google Pixel users, your phone just got better with Android 13! 🎉"
+  },
+  {
+    "category": "Android",
+    "text": "A phone for every need. #BeTogetherNotTheSame"
+  },
+  {
+    "category": "Android",
+    "text": "Night Sight on Pixel: Seeing in the dark just got easier."
+  },
+  {
+    "category": "Google",
+    "text": "Search on. Discover answers to your questions, big and small. #GoogleSearch"
+  },
+  {
+    "category": "Google",
+    "text": "Introducing the Google Pixel 7—super fast, secure, and designed for you."
+  },
+  {
+    "category": "Google",
+    "text": "Security by design. With Titan M2™ chip, your data stays safe. #MadeByGoogle"
+  },
+  {
+    "category": "Google",
+    "text": "Google Maps now shows you the most fuel-efficient route. 🌍💚 #Sustainability"
+  },
+  {
+    "category": "WhatsApp",
+    "text": "Message privately with end-to-end encryption. 💬🔒 #WhatsApp"
+  },
+  {
+    "category": "WhatsApp",
+    "text": "Now you can send disappearing photos and videos on WhatsApp. #PrivacyMatters"
+  },
+  {
+    "category": "WhatsApp",
+    "text": "Secure messaging for over 2 billion users worldwide."
+  },
+  {
+    "category": "WhatsApp",
+    "text": "Introducing voice and video calls on desktop. Stay connected, anywhere. 📞💻"
+  },
+  {
+    "category": "Apple",
+    "text": "Welcome to the new iPhone 14. Our most powerful, yet sleekest design ever. #AppleEvent"
+  },
+  {
+    "category": "Apple",
+    "text": "The future of health is on your wrist with Apple Watch. ⌚️ #AppleWatch"
+  },
+  {
+    "category": "Apple",
+    "text": "Privacy. That's iPhone. #ApplePrivacy"
+  },
+  {
+    "category": "Apple",
+    "text": "Introducing M2. The next generation of Apple silicon is here. 🚀"
+  },
+  {
+    "category": "Samsung",
+    "text": "Unfold the future with the Galaxy Z Fold 4. #SamsungUnpacked"
+  },
+  {
+    "category": "Samsung",
+    "text": "Power and performance, meet the new Galaxy S22 Ultra. #GalaxyS22"
+  },
+  {
+    "category": "Samsung",
+    "text": "Innovation meets design. The new Galaxy Watch4 is here. #WearOS"
+  },
+  {
+    "category": "Samsung",
+    "text": "Epic cameras. Stunning displays. Meet the new Galaxy lineup. 📱 #Galaxy"
+  }
+]
+
